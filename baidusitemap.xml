@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://javischang.de/2020/05/08/hello-world/</loc>
-    <lastmod>2020-05-08</lastmod>
+    <loc>https://www.javischang.de/2020/05/08/post-title/</loc>
+    <lastmod>2020-05-10</lastmod>
   </url>  <url>
-    <loc>https://javischang.de/2020/05/08/post-title/</loc>
+    <loc>https://www.javischang.de/2020/05/08/hello-world/</loc>
     <lastmod>2020-05-08</lastmod>
   </url>
 </urlset>
